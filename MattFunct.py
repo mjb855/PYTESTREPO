@@ -1,2 +1,2 @@
-Def MattMult(x,y):
+def MattMult(x,y):
     return x*y
