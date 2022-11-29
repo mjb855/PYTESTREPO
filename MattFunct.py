@@ -6,3 +6,6 @@ def MattDiv(x, y):
         return "Divide by Zero"
     else:
         return x/y
+    
+def MattAdd(x,y):
+    return x+y
