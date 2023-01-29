@@ -9,6 +9,12 @@ print("The Result: ", mf.MattAdd(101, 9))
 
 ml.MattForLoop(5)
 
+person = mf.Person
+person.name = "Jeremy Stonge"
+person.age = 33
+
+person.say_hello(person)
+
 pyplot.plot((0,1,2,3),(0,1,3,0))
 pyplot.show()
 
