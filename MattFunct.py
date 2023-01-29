@@ -16,4 +16,4 @@ class Person:
         self.age = age
         
     def say_hello(self):
-        print("Hello, my name is " + self.name + " and I am " + str(self.age) + " years old")
+        print("Hello, my name is " + self.name + " and I am " + str(self.age) + " years old.")
